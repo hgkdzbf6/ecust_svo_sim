@@ -1,0 +1,7 @@
+{
+  "api_id": 1049073,
+  "api_key": "a11aebe98da42b84156aa99969c329ccee0b349e4be8995cdd3c3cb1ffef0b8a",
+  "device": "/dev/ttyUSB0",
+  "baudrate": 921600,
+  "version": "versionM100_31"
+}
